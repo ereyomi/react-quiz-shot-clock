@@ -2,7 +2,7 @@
 
 ### Clone project
 ```bash
-    > git clone https://github.com/ereyomi/react-quiz-shot-clock.git
+git clone https://github.com/ereyomi/react-quiz-shot-clock.git
 ```
 ### Install Application Dependencies
 ```bash
