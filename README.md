@@ -1,3 +1,20 @@
+## QUICK SETUP
+
+### Clone project
+```bash
+    > git clone https://github.com/ereyomi/react-quiz-shot-clock.git
+```
+### Install Application Dependencies
+```bash
+npm install
+```
+
+### Run client
+```bash
+npm run start
+```
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Running on Repl.it
